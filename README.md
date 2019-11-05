@@ -1,4 +1,6 @@
-# generator-cep-quasar-cli [![NPM version][npm-image]][npm-url]
+# generator-cep-quasar-cli
+
+[![NPM version][npm-image]][npm-url]
 
 ## Generate an Adobe CEP extension in a few simple steps:
 
