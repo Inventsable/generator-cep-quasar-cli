@@ -1,0 +1,9 @@
+{
+  "generator-node": {
+    "promptValues": {
+      "authorName": "Tom Scharstein",
+      "authorEmail": "tom@inventsable.cc",
+      "authorUrl": "https://www.inventsable.cc"
+    }
+  }
+}
