@@ -21,7 +21,7 @@ Special thanks to Adam and Eric for their invaluable (and shockingly free) help
 
 ## Installation
 
-First, install [Yeoman](http://yeoman.io) and generator-cep-vue-cli using [npm](https://www.npmjs.com/) (we assume you have pre-installed [node.js](https://nodejs.org/)).
+First, install [Yeoman](http://yeoman.io) and generator-quasar-vue-cli using [npm](https://www.npmjs.com/) (we assume you have pre-installed [node.js](https://nodejs.org/)).
 
 ```bash
 npm install -g yo
