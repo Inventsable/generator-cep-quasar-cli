@@ -1,6 +1,6 @@
 {
   "name": "generator-cep-quasar-cli",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Scaffolding to create Adobe CEP panels with Vue and Quasar CLI",
   "homepage": "https://github.com/Inventsable/generator-cep-quasar-cli",
   "author": {

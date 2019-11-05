@@ -1,6 +1,8 @@
-# generator-cep-quasar-cli
+# NOTICE
 
-[![NPM](https://nodei.co/npm/generator-cep-quasar-cli.png)](https://nodei.co/npm/generator-cep-quasar-cli/)
+## Want something even better? Use the new version [bombino](https://github.com/Inventsable/bombino) instead.
+
+---
 
 ## Generate an Adobe CEP extension in a few simple steps:
 
